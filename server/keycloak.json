@@ -1,0 +1,11 @@
+{
+  "realm": "test",
+  "auth-server-url": "http://localhost:8080/",
+  "redirectUri": "http://localhost:5173",
+  "ssl-required": "external",
+  "resource": "weather-app",
+  "credentials": {
+    "secret": "LJYgZMH2bEHvxuyBQabegmn85bLIoF2h"
+  },
+  "confidential-port": 0
+}
